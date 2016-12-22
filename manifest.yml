@@ -3,8 +3,8 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: skdemoapp
-  host: skdemoapp
+  name: skdemo
+  host: skdemo
   disk_quota: 1024M
   services:
   - skdemoapp-cloudantNoSQLDB
